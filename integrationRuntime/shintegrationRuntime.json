@@ -1,0 +1,6 @@
+{
+	"name": "shintegrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
