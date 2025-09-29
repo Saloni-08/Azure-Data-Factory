@@ -1,0 +1,9 @@
+{
+	"name": "Datatopadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "efe23300-85bb-458f-ae0e-4506d5516b0d",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
